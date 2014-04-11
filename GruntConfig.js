@@ -12,6 +12,7 @@ var requireJsPaths = {
     "sammy":			"./public/lib/sammy",
 
     "ajax":				"./public/js/ajaxHandler",
+    "apiHandler":		"./public/js/EDMApiPluginHandler",
     "InfoBar":			"./public/js/InfoBar",
     "EDMUtils":			"./public/js/EDMUtils",
 
@@ -31,6 +32,8 @@ var requireJsPaths = {
     "koKit":					"empty:",
     "koColorPaletteBinding":	"./public/js/koColorPaletteBinding",
     "knockout-sortable":		"./public/lib/knockout-sortable",
+
+    "edmApi":			"empty:",
 
     "messages":			"./public/js/messages",
     "facebook":			"empty:"
