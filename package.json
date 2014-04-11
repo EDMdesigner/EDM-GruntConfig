@@ -1,0 +1,21 @@
+{
+  "name": "edm-gruntconfig",
+  "version": "0.0.0",
+  "description": "EDMdesigner's Grunt config used in multiple projects.",
+  "main": "GruntConfig.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EDMdesigner/EDM-GruntConfig.git"
+  },
+  "author": "EDMdesigner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EDMdesigner/EDM-GruntConfig/issues"
+  },
+  "dependencies": {
+  },
+  "homepage": "https://github.com/EDMdesigner/EDM-GruntConfig"
+}
