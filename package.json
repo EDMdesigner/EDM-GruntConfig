@@ -1,6 +1,6 @@
 {
   "name": "edm-gruntconfig",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "EDMdesigner's Grunt config used in multiple projects.",
   "main": "GruntConfig.js",
   "scripts": {

@@ -14,6 +14,7 @@ var requireJsPaths = {
     "ajax":				"./public/js/ajaxHandler",
     "apiHandler":		"./public/js/EDMApiPluginHandler",
     "InfoBar":			"./public/js/InfoBar",
+    "TinyLoader":       "js/TinyLoader",
     "EDMUtils":			"./public/js/EDMUtils",
 
     "ckEditor":			"empty:",
@@ -38,7 +39,7 @@ var requireJsPaths = {
     "messages":			"./public/js/messages",
     "packages":         "./public/js/packages",
     "facebook":			"empty:",
-    "l10n": "empty:"
+    "l10n":             "empty:"
 };
 
 
