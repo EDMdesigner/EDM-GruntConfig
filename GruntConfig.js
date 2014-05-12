@@ -14,7 +14,7 @@ var requireJsPaths = {
     "ajax":				"./public/js/ajaxHandler",
     "apiHandler":		"./public/js/EDMApiPluginHandler",
     "InfoBar":			"./public/js/InfoBar",
-    "TinyLoader":       "js/TinyLoader",
+    "TinyLoader":       "./public/js/TinyLoader",
     "EDMUtils":			"./public/js/EDMUtils",
 
     "ckEditor":			"empty:",
