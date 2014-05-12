@@ -36,6 +36,7 @@ var requireJsPaths = {
     "edmApi":			"empty:",
 
     "messages":			"./public/js/messages",
+    "packages":         "./public/js/packages",
     "facebook":			"empty:",
     "l10n": "empty:"
 };
